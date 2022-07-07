@@ -72,6 +72,7 @@ const Header2 = () => {
   );
 };
 
+const a = 1;
 const App = () => {
   return (
     <>
